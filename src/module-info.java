@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author cinetpay
+ *
+ */
+module ProjetCinetPay {
+}
